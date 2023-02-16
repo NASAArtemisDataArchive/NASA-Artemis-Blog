@@ -1,4 +1,4 @@
-# NASA-Artemis-Blog-Arhives
+# NASA-Artemis-Blog-Archives
 
 Month: June 2020
 
